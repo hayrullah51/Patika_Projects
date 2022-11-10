@@ -3,14 +3,18 @@ import java.util.Scanner;
 public class Manav {
     public static void main(String[] args) {
 
-        double pearPrice, applePrice, tomatoesPrice, bananaPrice , strawberryPrice;
-        double pearKilo, appleKilo, tomatoesKilo, bananaKilo , strawberryKilo;
+        //Veriable'lar olusturuldu
+        double pearPrice, applePrice, tomatoesPrice, bananaPrice, strawberryPrice;
+        double pearKilo, appleKilo, tomatoesKilo, bananaKilo, strawberryKilo;
+
+        //Fiyatlar belirlendi
         pearPrice = 2.14;
         applePrice = 3.67;
         tomatoesPrice = 1.11;
         bananaPrice = 0.95;
         strawberryPrice = 5.0;
 
+        //Scan objesi olusturulup kullaniciya mesaj yollandi ve istekler veriablelere atildi
         Scanner scan = new Scanner(System.in);
         System.out.println("You are Welcome");
 
@@ -29,8 +33,10 @@ public class Manav {
         System.out.println("How many kilos of strawberrys do you want?");
         strawberryKilo = scan.nextDouble();
 
-  double totalPrice = applePrice*appleKilo + pearPrice*pearKilo + tomatoesPrice*tomatoesKilo + bananaPrice*bananaKilo +strawberryPrice*strawberryKilo;
+        //Toplam fiyat belirlendi
+        double totalPrice = applePrice * appleKilo + pearPrice * pearKilo + tomatoesPrice * tomatoesKilo + bananaPrice * bananaKilo + strawberryPrice * strawberryKilo;
 
+        //Kullaniciya toplam tutar ve mesaj gonderildi
         System.out.println("Thanks, Total Price is : " + totalPrice + "$" + "\nSee you later");
 
 
