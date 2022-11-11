@@ -13,9 +13,6 @@
       <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/utilities/JsonUtil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/utilities/ReadText.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/utilities/WriteToText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArtikYil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CinZodya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UcakBileti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APIBatch81/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APIBatch81/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APIBatch81/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APIBatch81/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APIBatch81/src/test/java/base_url/JsonplaceholderBaseUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/base_url/JsonplaceholderBaseUrl.java" afterDir="false" />
@@ -78,7 +75,7 @@
       <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/utilities/ReusableMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/xml-report/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/xml-report/cucumber.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practicum_Projects/Manav.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practicum_Projects/Manav.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CinZodya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CinZodya.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.Batch81JUnit/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.Batch81JUnit/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.Batch81JUnit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.Batch81JUnit/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.Batch81Selenium/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.Batch81Selenium/.idea/vcs.xml" afterDir="false" />
@@ -156,7 +153,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UcakBileti">
+  <component name="RunManager" selected="Application.CinZodya">
     <configuration name="BodyMassIndexCalculatorProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BodyMassIndexCalculatorProgram" />
       <module name="Practicum_Projects" />
@@ -166,6 +163,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CinZodya" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CinZodya" />
+      <module name="Practicum_Projects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -186,6 +190,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CinZodya" />
         <item itemvalue="Application.UcakBileti" />
         <item itemvalue="Application.Manav" />
         <item itemvalue="Application.BodyMassIndexCalculatorProgram" />

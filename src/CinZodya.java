@@ -1,39 +1,62 @@
+import java.util.Scanner;
+
 public class CinZodya {
-    /*
-    Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplayan program yazınız.
 
-Çin Zodyağı nedir?
 
-4000 bin yıldır kullanılan bir astroloji çeşididir Çin astrolojisi ve insanları 12 değişik burç ve sembollerle tanımlar. Çin Zodyağı bu 12 burcun eşit aralıklarla(10 derece genişliğinde) sıralandığı bir hayvan halkasıdır ve yıldızlarla pek bir ilgisi yoktur.
+    public static void main(String[] args) {
 
-Çin Zodyağı nasıl hesaplanır?
+        Scanner scan = new Scanner(System.in);
 
-Çin zodyağı hesaplanırken kişinin doğum yılının 12 ile bölümünde kalana göre bulunur.
+        //Kullanicidan dogum yili alinir
+        System.out.println("Please enter your bird of year");
+        int year = scan.nextInt();
 
-Doğum Tarihi %12 = 0 ➜ Maymun
+        //Dogum yilinin 12 ile bolumu bulunur
+        int result = year%12;
 
-Doğum Tarihi %12 = 1 ➜ Horoz
+        //Zodyak yili enizi ekrana yazdirir
+        switch (result){
 
-Doğum Tarihi %12 = 2 ➜ Köpek
+            case 0 :
+                System.out.println("Cin Zodyagın : Maymun");
+                break;
+            case 1 :
+                System.out.println("Cin Zodyagın : Horoz");
+                break;
+            case 2 :
+                System.out.println("Cin Zodyagın : Kopek");
+                break;
+            case 3 :
+                System.out.println("Cin Zodyagın : Domuz");
+                break;
+            case 4 :
+                System.out.println("Cin Zodyagın : Fare");
+                break;
+            case 5 :
+                System.out.println("Cin Zodyagın : Okuz");
+                break;
+            case 6 :
+                System.out.println("Cin Zodyagın : Kaplan");
+                break;
+            case 7 :
+                System.out.println("Cin Zodyagın : Tavsan");
+                break;
+            case 8 :
+                System.out.println("Cin Zodyagın : Ejderha");
+                break;
+            case 9 :
+                System.out.println("Cin Zodyagın : Yılan");
+                break;
+            case 10 :
+                System.out.println("Cin Zodyagın : At");
+                break;
+            case 11 :
+                System.out.println("Cin Zodyagın : Koyun");
+                break;
+        }
 
-Doğum Tarihi %12 = 3 ➜ Domuz
 
-Doğum Tarihi %12 = 4 ➜ Fare
 
-Doğum Tarihi %12 = 5 ➜ Öküz
 
-Doğum Tarihi %12 = 6 ➜ Kaplan
-
-Doğum Tarihi %12 = 7 ➜ Tavşan
-
-Doğum Tarihi %12 = 8 ➜ Ejderha
-
-Doğum Tarihi %12 = 9 ➜ Yılan
-
-Doğum Tarihi %12 = 10 ➜ At
-
-Doğum Tarihi %12 = 11 ➜ Koyun
-
-Senaryo
-     */
+    }
 }
