@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caea13db-73c2-49d9-8afb-3f6ee45c54f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Manav.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/day04/AllData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/day04/GMIBank01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/day04/GMIBankBaseURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/day04/PostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/day04/SSNNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/pojos/CountryPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/utilities/DersNotları" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/utilities/GMIBankBaseURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/utilities/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/utilities/ReadText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/utilities/WriteToText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArtikYil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CinZodya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UcakBileti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APIBatch81/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APIBatch81/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APIBatch81/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APIBatch81/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APIBatch81/src/test/java/base_url/JsonplaceholderBaseUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/base_url/JsonplaceholderBaseUrl.java" afterDir="false" />
@@ -12,6 +25,13 @@
       <change beforePath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APIPractice/src/test/java/day03/GetRequest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/day03/GetRequest07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APIPractice/src/test/java/day04/GetRequest09.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/day04/GetRequest09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APIPractice/src/test/java/pojos/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/pojos/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APIPractice/src/test/java/pojos/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/pojos/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APIPractice/src/test/java/pojos/Customar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/pojos/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APIPractice/src/test/java/pojos/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APIPractice/src/test/java/pojos/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APIPractice/src/test/java/utilities/GMIBankURL.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../API_WORKING_2022/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../API_WORKING_2022/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API_WORKING_2022/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../API_WORKING_2022/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API_WORKING_2022/.idea/workspace.xml" afterDir="false" />
@@ -58,6 +78,7 @@
       <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/utilities/ReusableMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/xml-report/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/xml-report/cucumber.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practicum_Projects/Manav.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practicum_Projects/Manav.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.Batch81JUnit/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.Batch81JUnit/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.Batch81JUnit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.Batch81JUnit/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.Batch81Selenium/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.Batch81Selenium/.idea/vcs.xml" afterDir="false" />
@@ -135,7 +156,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Manav">
+  <component name="RunManager" selected="Application.UcakBileti">
     <configuration name="BodyMassIndexCalculatorProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BodyMassIndexCalculatorProgram" />
       <module name="Practicum_Projects" />
@@ -156,8 +177,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UcakBileti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UcakBileti" />
+      <module name="Practicum_Projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UcakBileti" />
         <item itemvalue="Application.Manav" />
         <item itemvalue="Application.BodyMassIndexCalculatorProgram" />
       </list>
