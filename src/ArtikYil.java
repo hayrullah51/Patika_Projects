@@ -26,6 +26,6 @@ public class ArtikYil {
         if(artikMi)
             System.out.println(year + " yili artik yildir.");
         else
-            System.out.println(year + " yili artik yıl değildir.");
+            System.out.println(year + " yili artik yıl değildir. ");
     }
 }
